@@ -1,0 +1,354 @@
+Time Unit:    1
+
+
+Beginning:
+
+Priority Heap contains:
+[(1, 3, 30), (2, 4, 10)]
+
+CPU Contains:
+-
+
+During:
+
+Priority Heap contains:
+[(2, 4, 10)]
+
+CPU Contains:
+[(1, 3, 30)]
+
+End:
+
+Priority Heap contains:
+[(2, 4, 10)]
+
+CPU Contains:
+[(1, 2, 30)]
+
+Time Unit:    2
+
+
+Beginning:
+
+Priority Heap contains:
+[(2, 4, 10)]
+
+CPU Contains:
+[(1, 2, 30)]
+
+During:
+
+Priority Heap contains:
+[(2, 4, 10)]
+
+CPU Contains:
+[(1, 2, 30)]
+
+End:
+
+Priority Heap contains:
+[(1, 1, 30), (2, 4, 10)]
+
+CPU Contains:
+-
+
+Time Unit:    3
+
+
+Beginning:
+
+Priority Heap contains:
+[(1, 1, 30), (2, 4, 10), (3, 3, 10)]
+
+CPU Contains:
+-
+
+During:
+
+Priority Heap contains:
+[(2, 4, 10), (3, 3, 10)]
+
+CPU Contains:
+[(1, 1, 30)]
+
+End:
+
+Priority Heap contains:
+[(2, 4, 10), (3, 3, 10)]
+
+CPU Contains:
+-
+
+Time Unit:    4
+
+
+Beginning:
+
+Priority Heap contains:
+[(4, 3, 15), (2, 4, 10), (3, 3, 10)]
+
+CPU Contains:
+-
+
+During:
+
+Priority Heap contains:
+[(2, 4, 10), (3, 3, 10)]
+
+CPU Contains:
+[(4, 3, 15)]
+
+End:
+
+Priority Heap contains:
+[(2, 4, 10), (3, 3, 10)]
+
+CPU Contains:
+[(4, 2, 15)]
+
+Time Unit:    5
+
+
+Beginning:
+
+Priority Heap contains:
+[(2, 4, 10), (3, 3, 10)]
+
+CPU Contains:
+[(4, 2, 15)]
+
+During:
+
+Priority Heap contains:
+[(2, 4, 10), (3, 3, 10)]
+
+CPU Contains:
+[(4, 2, 15)]
+
+End:
+
+Priority Heap contains:
+[(4, 1, 15), (2, 4, 10), (3, 3, 10)]
+
+CPU Contains:
+-
+
+Time Unit:    6
+
+
+Beginning:
+
+Priority Heap contains:
+[(4, 1, 15), (2, 4, 10), (3, 3, 10)]
+
+CPU Contains:
+-
+
+During:
+
+Priority Heap contains:
+[(2, 4, 10), (3, 3, 10)]
+
+CPU Contains:
+[(4, 1, 15)]
+
+End:
+
+Priority Heap contains:
+[(2, 4, 10), (3, 3, 10)]
+
+CPU Contains:
+-
+
+Time Unit:    7
+
+
+Beginning:
+
+Priority Heap contains:
+[(2, 4, 10), (3, 3, 10)]
+
+CPU Contains:
+-
+
+During:
+
+Priority Heap contains:
+[(3, 3, 10)]
+
+CPU Contains:
+[(2, 4, 10)]
+
+End:
+
+Priority Heap contains:
+[(3, 3, 10)]
+
+CPU Contains:
+[(2, 3, 10)]
+
+Time Unit:    8
+
+
+Beginning:
+
+Priority Heap contains:
+[(3, 3, 10)]
+
+CPU Contains:
+[(2, 3, 10)]
+
+During:
+
+Priority Heap contains:
+[(3, 3, 10)]
+
+CPU Contains:
+[(2, 3, 10)]
+
+End:
+
+Priority Heap contains:
+[(3, 3, 10), (2, 2, 10)]
+
+CPU Contains:
+-
+
+Time Unit:    9
+
+
+Beginning:
+
+Priority Heap contains:
+[(3, 3, 10), (2, 2, 10)]
+
+CPU Contains:
+-
+
+During:
+
+Priority Heap contains:
+[(2, 2, 10)]
+
+CPU Contains:
+[(3, 3, 10)]
+
+End:
+
+Priority Heap contains:
+[(2, 2, 10)]
+
+CPU Contains:
+[(3, 2, 10)]
+
+Time Unit:    10
+
+
+Beginning:
+
+Priority Heap contains:
+[(2, 2, 10)]
+
+CPU Contains:
+[(3, 2, 10)]
+
+During:
+
+Priority Heap contains:
+[(2, 2, 10)]
+
+CPU Contains:
+[(3, 2, 10)]
+
+End:
+
+Priority Heap contains:
+[(2, 2, 10), (3, 1, 10)]
+
+CPU Contains:
+-
+
+Time Unit:    11
+
+
+Beginning:
+
+Priority Heap contains:
+[(2, 2, 10), (3, 1, 10)]
+
+CPU Contains:
+-
+
+During:
+
+Priority Heap contains:
+[(3, 1, 10)]
+
+CPU Contains:
+[(2, 2, 10)]
+
+End:
+
+Priority Heap contains:
+[(3, 1, 10)]
+
+CPU Contains:
+[(2, 1, 10)]
+
+Time Unit:    12
+
+
+Beginning:
+
+Priority Heap contains:
+[(3, 1, 10)]
+
+CPU Contains:
+[(2, 1, 10)]
+
+During:
+
+Priority Heap contains:
+[(3, 1, 10)]
+
+CPU Contains:
+[(2, 1, 10)]
+
+End:
+
+Priority Heap contains:
+[(3, 1, 10)]
+
+CPU Contains:
+-
+
+Time Unit:    13
+
+
+Beginning:
+
+Priority Heap contains:
+[(3, 1, 10)]
+
+CPU Contains:
+-
+
+During:
+
+Priority Heap contains:
+-
+
+
+CPU Contains:
+[(3, 1, 10)]
+
+End:
+
+Priority Heap contains:
+-
+
+
+CPU Contains:
+-
+
+CPU took 13 time units to process all data.

@@ -1,0 +1,41 @@
+ ----jGRASP exec: java Exercise3
+Enter the value of n: 10
+Execution time: to generate 2^10 binary numbers: 2 millisecs
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java Exercise3
+Enter the value of n: 12
+Execution time: to generate 2^12 binary numbers: 3 millisecs
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java Exercise3
+Enter the value of n: 14
+Execution time: to generate 2^14 binary numbers: 10 millisecs
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java Exercise3
+Enter the value of n: 16
+Execution time: to generate 2^16 binary numbers: 53 millisecs
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java Exercise3
+Enter the value of n: 18
+Execution time: to generate 2^18 binary numbers: 60 millisecs
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java Exercise3
+Enter the value of n: 20
+Execution time: to generate 2^20 binary numbers: 77 millisecs
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java Exercise3
+Enter the value of n: 22
+Execution time: to generate 2^22 binary numbers: 238 millisecs
+
+ ----jGRASP: operation complete.

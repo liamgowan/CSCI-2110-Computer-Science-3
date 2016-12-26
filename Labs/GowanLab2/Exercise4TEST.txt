@@ -1,0 +1,57 @@
+ ----jGRASP exec: java Exercise4
+Enter p (please enter a value <=64): 4
+2
+3
+Time required to find Mersenne primes: 1 millisecs
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java Exercise4
+Enter p (please enter a value <=64): 8
+2
+3
+5
+7
+Time required to find Mersenne primes: 1 millisecs
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java Exercise4
+Enter p (please enter a value <=64): 16
+2
+3
+5
+7
+13
+Time required to find Mersenne primes: 1 millisecs
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java Exercise4
+Enter p (please enter a value <=64): 32
+2
+3
+5
+7
+13
+17
+19
+31
+Time required to find Mersenne primes: 3 millisecs
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java Exercise4
+Enter p (please enter a value <=64): 64
+2
+3
+5
+7
+13
+17
+19
+31
+61
+Time required to find Mersenne primes: 16163 millisecs
+
+ ----jGRASP: operation complete.

@@ -1,0 +1,125 @@
+ ----jGRASP exec: java DNAMatch
+Enter the filename to read from: DNASequence.txt
+Enter the test string: CC
+Substring CC was found 6715 times.
+Execution time: 35 millisecs
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java DNAMatch
+Enter the filename to read from: DNASequence.txt
+Enter the test string: ATCCTTTACTCAATCT
+No matches - substring ATCCTTTACTCAATCT was not found
+Execution time: 77 millisecs
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java DNAMatch
+Enter the filename to read from: DNASequence.txt
+Enter the test string: TTTACT
+Substring TTTACT was found 67 times.
+Execution time: 60 millisecs
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java DNAMatch
+Enter the filename to read from: DNASequence.txt
+Enter the test string: AGTT
+Substring AGTT was found 913 times.
+Execution time: 48 millisecs
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java DNAMatch
+Enter the filename to read from: DNASequence.txt
+Enter the test string: C
+Substring C was found 32427 times.
+Execution time: 27 millisecs
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java DNAMatch
+Enter the filename to read from: DNASequence.txt
+Enter the test string: &^$&#()Q
+No matches - substring &^$&#()Q was not found
+Execution time: 13 millisecs
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java DNAMatch
+Enter the filename to read from: DNASequence.txt
+Enter the test string: A
+Substring A was found 51326 times.
+Execution time: 31 millisecs
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java DNAMatch
+Enter the filename to read from: DNASequence.txt
+Enter the test string: T
+Substring T was found 52300 times.
+Execution time: 44 millisecs
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java DNAMatch
+Enter the filename to read from: DNASequence.txt
+Enter the test string: G
+Substring G was found 34407 times.
+Execution time: 32 millisecs
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java DNAMatch
+Enter the filename to read from: DNASequence.txt
+Enter the test string: AT
+Substring AT was found 14682 times.
+Execution time: 41 millisecs
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java DNAMatch
+Enter the filename to read from: DNASequence.txt
+Enter the test string: TACCAAATGCACTCACAT
+Substring TACCAAATGCACTCACAT was found 1 times.
+Execution time: 107 millisecs
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java DNAMatch
+Enter the filename to read from: DNASequence.txt
+Enter the test string: TA
+Substring TA was found 11820 times.
+Execution time: 45 millisecs
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java DNAMatch
+Enter the filename to read from: DNASequence.txt
+Enter the test string: TAG
+Substring TAG was found 2246 times.
+Execution time: 38 millisecs
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java DNAMatch
+Enter the filename to read from: DNASequence.txt
+Enter the test string: GAG
+Substring GAG was found 2034 times.
+Execution time: 31 millisecs
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java DNAMatch
+Enter the filename to read from: DNASequence.txt
+Enter the test string: TATT
+Substring TATT was found 1326 times.
+Execution time: 50 millisecs
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java DNAMatch
+Enter the filename to read from: DNASequence.txt
+Enter the test string: GAGGAG
+Substring GAGGAG was found 48 times.
+Execution time: 44 millisecs
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java DNAMatch
+Enter the filename to read from: DNASequence.txt
+Enter the test string: GAGGAGTAT
+Substring GAGGAGTAT was found 1 times.
+Execution time: 57 millisecs
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java DNAMatch
+Enter the filename to read from: DNASequence.txt
+Enter the test string: CACT
+Substring CACT was found 497 times.
+Execution time: 34 millisecs
+ ----jGRASP: operation complete.

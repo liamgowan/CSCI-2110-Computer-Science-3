@@ -1,0 +1,46 @@
+ ----jGRASP exec: java GCDClient
+Which method (Enter Method1 or Method2)?: Method1
+Enter the first integer: 2525
+Enter the second integer: 125
+The GCD is: 25
+Execution time: 1
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java GCDClient
+Which method (Enter Method1 or Method2)?: Method2
+Enter the first integer: 2525
+Enter the second integer: 125
+The GCD is: 25
+Execution time: 1
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java GCDClient
+Which method (Enter Method1 or Method2)?: Method1
+Enter the first integer: 6758492
+Enter the second integer: 6753
+The GCD is: 1
+Execution time: 85
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java GCDClient
+Which method (Enter Method1 or Method2)?: Method2
+Enter the first integer: 6758492
+Enter the second integer: 6753
+The GCD is: 1
+Execution time: 50
+ ----jGRASP: operation complete.
+ ----jGRASP exec: java GCDClient
+Which method (Enter Method1 or Method2)?: Method1
+Enter the first integer: 123456789
+Enter the second integer: 987654321
+The GCD is: 9
+Execution time: 10445
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java GCDClient
+Which method (Enter Method1 or Method2)?: Method2
+Enter the first integer: 123456789
+Enter the second integer: 987654321
+The GCD is: 9
+Execution time: 5367
+ ----jGRASP: operation complete.

@@ -1,0 +1,21 @@
+EXERCISE 1
+Enter a word to be read, enter * and program will execute: emboar
+Enter next: pikachu
+Enter next: bulbasaur
+Enter next: aggron
+Enter next: charizard
+Enter next: *
+emboar
+pikachu
+charizard
+bulbasaur
+aggron
+EXERCISE 2
+[a, b, d, e, c]
+EXERCISE 3
+Minimum: 0
+EXERCISE 4
+5 is at position: 8
+[34, 34, 34, 6, 34, 4, 0, 2, 5, 3, 34, 1]
+EXERCISE 5
+[34, 34, 34, 34, 7, 7, 34, 7, 4, 5, 7, 3, 0, 1, 7, 2, 6]

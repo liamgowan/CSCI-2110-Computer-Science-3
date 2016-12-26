@@ -1,0 +1,10 @@
+Hello
+Goodbye
+Hello
+Is the queue empty? false
+The queue has 5 elements.
+Hello first appears at position 2
+Hello first appears at position 3
+Peeking ---Goodbye
+Peeking ---Empty Queue
+Is the queue empty? true

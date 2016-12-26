@@ -1,0 +1,91 @@
+ ----jGRASP exec: java Jumble
+Enter the word: liam
+Enter the number of jumbled versions required: 13
+lima
+ilam
+imla
+mial
+alim
+mali
+aiml
+lmai
+iaml
+lmia
+lami
+laim
+mila
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java Jumble
+Enter the word: bee
+Enter the number of jumbled versions required: 12
+Sorry! The maximum amount of variations is 3
+Generating 3 versions:
+bee
+ebe
+eeb
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java Jumble
+Enter the word: Mason
+Enter the number of jumbled versions required: 56
+onasM
+naMos
+asnMo
+oMnsa
+nsMoa
+oasnM
+ansoM
+nMoas
+Mnsao
+Msaon
+saoMn
+osaMn
+sonMa
+saMno
+Msnao
+Moans
+nMaso
+soMan
+onaMs
+osnMa
+nasoM
+nMaos
+anoMs
+osnaM
+saonM
+snaMo
+nsoaM
+onsaM
+aMnso
+anMos
+nsMao
+Manos
+aoMns
+snMoa
+Mosan
+asoMn
+Mnoas
+soMna
+saMon
+noMsa
+sanMo
+nsaoM
+ansMo
+soaMn
+sanoM
+noMas
+Msano
+oaMsn
+Msoan
+aMsno
+oMsan
+Manso
+oanMs
+noaMs
+Monsa
+Monas
+
+ ----jGRASP: operation complete.

@@ -1,0 +1,304 @@
+Enter the size of the hash table: 10
+Enter the number of keys to be hashed: 10
+LinkedList 0: 
+-->6760
+LinkedList 1: 
+-->9921-->7591
+LinkedList 2: 
+
+LinkedList 3: 
+-->5643
+LinkedList 4: 
+
+LinkedList 5: 
+-->6045
+LinkedList 6: 
+-->4006
+LinkedList 7: 
+-->3007-->8447
+LinkedList 8: 
+
+LinkedList 9: 
+-->3319-->7469
+
+Statistics:
+Table size: 10
+Number of keys: 10
+Load factor: 1.0
+Total number of Collisions: 3
+Longest List: 2
+
+Enter the size of the hash table: 10
+Enter the number of keys to be hashed: 20
+LinkedList 0: 
+
+LinkedList 1: 
+-->1551-->3151
+LinkedList 2: 
+-->4142-->3872
+LinkedList 3: 
+-->8413-->8093
+LinkedList 4: 
+-->3364
+LinkedList 5: 
+-->6485-->7985
+LinkedList 6: 
+-->2496-->4946
+LinkedList 7: 
+-->5407-->4537-->9067
+LinkedList 8: 
+-->128-->4488
+LinkedList 9: 
+-->5949-->8339-->9399-->7769
+
+Statistics:
+Table size: 10
+Number of keys: 20
+Load factor: 2.0
+Total number of Collisions: 11
+Longest List: 4
+
+
+Enter the size of the hash table: 10
+Enter the number of keys to be hashed: 30
+LinkedList 0: 
+-->7840
+LinkedList 1: 
+-->5471-->5521-->3811-->1421
+LinkedList 2: 
+-->5352-->1612-->6772-->2172-->6222
+LinkedList 3: 
+-->3983-->3913-->9873-->833
+LinkedList 4: 
+-->9654-->5574-->5734-->8134-->1654
+LinkedList 5: 
+-->1305
+LinkedList 6: 
+-->4466
+LinkedList 7: 
+-->1517-->9527-->3077-->2347-->2357
+LinkedList 8: 
+-->1478-->6958
+LinkedList 9: 
+-->2169-->3619
+
+Statistics:
+Table size: 10
+Number of keys: 30
+Load factor: 3.0
+Total number of Collisions: 20
+Longest List: 5
+
+
+Enter the size of the hash table: 10
+Enter the number of keys to be hashed: 40
+LinkedList 0: 
+-->3710-->2180-->7420-->3550-->9610-->8800
+LinkedList 1: 
+-->4281-->2691-->3781-->3551-->701
+LinkedList 2: 
+-->6912-->8722
+LinkedList 3: 
+-->1723-->1593-->1393-->2213-->3433-->6033
+LinkedList 4: 
+-->6404-->5644-->9394-->314-->984-->1364
+LinkedList 5: 
+-->2825-->8655-->6395-->3785-->275-->1815
+LinkedList 6: 
+-->2496-->7486-->8926
+LinkedList 7: 
+-->5817-->4387-->4917
+LinkedList 8: 
+-->7748
+LinkedList 9: 
+-->6639-->1549
+
+Statistics:
+Table size: 10
+Number of keys: 40
+Load factor: 4.0
+Total number of Collisions: 30
+Longest List: 6
+
+Enter the size of the hash table: 10
+Enter the number of keys to be hashed: 50
+LinkedList 0: 
+-->7610-->7930-->5830-->3550-->9380-->7660-->7590
+LinkedList 1: 
+-->4371-->4771-->4061-->9821-->5901
+LinkedList 2: 
+
+LinkedList 3: 
+-->2533-->3983-->5883-->2643-->7183-->2623-->4813
+LinkedList 4: 
+-->814-->7884-->9834-->3564-->3994-->1784-->2404-->4854-->1424
+LinkedList 5: 
+-->6575-->1855-->7695-->4775-->9015
+LinkedList 6: 
+-->596-->8046-->8296-->1996-->5406
+LinkedList 7: 
+-->9367-->1597-->3007-->2687-->1577-->1057
+LinkedList 8: 
+-->8708-->1738-->9368-->6028
+LinkedList 9: 
+-->7069-->819
+
+Statistics:
+Table size: 10
+Number of keys: 50
+Load factor: 5.0
+Total number of Collisions: 41
+Longest List: 9
+
+Enter the size of the hash table: 10
+Enter the number of keys to be hashed: 60
+LinkedList 0: 
+-->2210-->420-->9460-->2530
+LinkedList 1: 
+-->9511-->9991-->4261-->2711-->9111-->7601-->4691
+LinkedList 2: 
+-->2612-->4432-->9222-->4162-->4892-->6922-->4582-->5452
+LinkedList 3: 
+-->1193-->4673-->7273-->1593-->2783-->5423
+LinkedList 4: 
+-->7734-->5494-->2084-->6634-->6154
+LinkedList 5: 
+-->7265-->6705-->6745
+LinkedList 6: 
+-->1096-->8626-->2466-->5706-->7216-->4076-->7686
+LinkedList 7: 
+-->6657-->3947-->7037-->8167
+LinkedList 8: 
+-->1408-->7068-->4528-->5468-->828-->2818-->518-->9878
+LinkedList 9: 
+-->5199-->8599-->1349-->179-->9969-->1949-->7189-->6939
+
+Statistics:
+Table size: 10
+Number of keys: 60
+Load factor: 6.0
+Total number of Collisions: 50
+Longest List: 8
+
+
+Enter the size of the hash table: 10
+Enter the number of keys to be hashed: 70
+LinkedList 0: 
+-->9720-->3490-->8290-->9560-->290-->6710-->1810
+LinkedList 1: 
+-->5441-->4511-->8911-->2541-->4361-->9041
+LinkedList 2: 
+-->5952-->5192-->7102-->232-->6672-->7962-->8552-->4212
+LinkedList 3: 
+-->9473-->1233-->5513-->8993-->1053-->1943-->7463-->5693-->6613-->1053-->5213-->9093-->3433-->8773
+LinkedList 4: 
+-->9364-->9154-->8454-->4724-->6964
+LinkedList 5: 
+-->1925-->3985-->4685-->7615-->565-->6465-->1225-->1125-->8865-->2815-->2065-->4395-->5445
+LinkedList 6: 
+-->7276-->2276
+LinkedList 7: 
+-->1917-->1507-->7507-->5057
+LinkedList 8: 
+-->8638-->8438-->8468-->148-->8048-->258
+LinkedList 9: 
+-->8749-->2279-->5259-->289-->7249
+
+Statistics:
+Table size: 10
+Number of keys: 70
+Load factor: 7.0
+Total number of Collisions: 60
+Longest List: 14
+
+Enter the size of the hash table: 10
+Enter the number of keys to be hashed: 80
+LinkedList 0: 
+-->1550-->4760-->8210-->8620-->1070-->5350-->9520-->9220-->8610-->4630-->9860-->8570-->5620-->7000
+LinkedList 1: 
+-->5331-->8641-->1991-->3291-->3861-->3731-->9581-->7431
+LinkedList 2: 
+-->732-->2252-->7652-->8412-->5392-->3122
+LinkedList 3: 
+-->9833-->4303-->3613-->9003-->3823-->3753-->5443-->4463-->7023
+LinkedList 4: 
+-->754-->9544-->9844-->7514-->6324
+LinkedList 5: 
+-->1235-->7875-->7645-->1005-->9085-->3475-->6865
+LinkedList 6: 
+-->526-->5006-->7336-->8306-->2226-->8216-->4446-->6836-->7396-->9756-->6966
+LinkedList 7: 
+-->5047-->47-->5677-->9477-->747
+LinkedList 8: 
+-->708-->3988-->228-->8828-->8588-->3478-->1828-->5808-->8928
+LinkedList 9: 
+-->3079-->5609-->9219-->2359-->9609-->5939
+
+Statistics:
+Table size: 10
+Number of keys: 80
+Load factor: 8.0
+Total number of Collisions: 70
+Longest List: 14
+
+
+Enter the size of the hash table: 10
+Enter the number of keys to be hashed: 90
+LinkedList 0: 
+-->4770-->8870-->2180-->5120-->6540-->7660-->1090-->9460-->1140-->4970
+LinkedList 1: 
+-->1191-->2271-->7881-->6791-->4911-->9681-->2921-->3691-->9981-->9781
+LinkedList 2: 
+-->5612-->6332-->7052-->4802-->4122-->9662-->9712
+LinkedList 3: 
+-->9483-->7973-->773-->8383-->5093-->5043
+LinkedList 4: 
+-->2504-->4034-->3414-->3054-->2874-->8374-->864-->2964-->7744-->214-->4944-->4784-->3414-->1854-->8874-->6064-->9694-->7504
+LinkedList 5: 
+-->9545-->9955-->5755-->565
+LinkedList 6: 
+-->9806-->5046-->4946-->9076-->186-->2176-->2166-->6226-->1366-->4916-->7576-->5726
+LinkedList 7: 
+-->6387-->9437-->8727-->3487-->2197-->4177-->3137-->5367
+LinkedList 8: 
+-->9618-->8718-->8568-->2108-->7188-->3758-->2498-->4578
+LinkedList 9: 
+-->6429-->8279-->8709-->3949-->9439-->6709-->5079
+
+Statistics:
+Table size: 10
+Number of keys: 90
+Load factor: 9.0
+Total number of Collisions: 80
+Longest List: 18
+
+
+Enter the size of the hash table: 10
+Enter the number of keys to be hashed: 100
+LinkedList 0: 
+-->4170-->3530-->2420-->5450-->2500-->6410-->7490-->8000-->2600-->7940-->5010-->1590-->2280
+LinkedList 1: 
+-->3741-->3161-->3031-->6781-->6471-->6731-->2911-->9681-->81-->3111
+LinkedList 2: 
+-->5782-->672-->9682-->6872-->932-->7892-->8202-->4662
+LinkedList 3: 
+-->3563-->1913-->4523-->3313-->7613-->7513-->503-->5663-->83-->2203-->3643-->9033
+LinkedList 4: 
+-->6604-->3604-->8194-->1744-->2634-->3984-->2424-->304-->744-->6254-->9664
+LinkedList 5: 
+-->2665-->3125-->5125-->2815-->5675-->9285-->4345-->1525-->9565
+LinkedList 6: 
+-->8606-->3166-->2736-->5056-->8096-->3806-->1526-->5146-->7506-->7756
+LinkedList 7: 
+-->6327-->1847-->7417-->5937-->9237-->1867-->2597-->8747-->3497-->4577-->4817-->6807
+LinkedList 8: 
+-->4458-->3368-->2688-->278-->8748
+LinkedList 9: 
+-->2379-->3569-->8749-->4949-->2319-->2019-->5359-->7429-->3879-->9819
+
+Statistics:
+Table size: 10
+Number of keys: 100
+Load factor: 10.0
+Total number of Collisions: 90
+Longest List: 13

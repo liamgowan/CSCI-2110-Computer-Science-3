@@ -1,0 +1,153 @@
+ ----jGRASP exec: java PracticeMoves
+Welcome to PracticeMoves.java. 
+From here you may create pieces, by tying "create", and move them by typing "move". 
+To display the board, type "display". For help, type "help". To exit, type "exit".
+
+Enter command: create
+Enter a name with no more than 8 characters: Truck
+Your piece may be one of the following types: 
+A slow piece, which can move left or right, one move at a time. (Enter "s")
+A slow flexible piece, which can move any direction, one move at a time. (Enter "sf")
+A fast piece, which can move any direction, one move at a time. (Enter "f")
+A fast flexible piece, which can move any direction, multiple moves at a time. (Enter "ff")
+Enter piece type: s
+Enter the first letter of a colour: B
+Enter the X position (1-8): 3
+Enter the Y position (1-8): 20
+Error - Please enter the Y position (1-8): 5
+Enter command: display
+-            -            -            -            -            -            -            -            
+-            -            -            -            -            -            -            -            
+-            -            -            -            -            -            -            -            
+-            -            -            -            -            -            -            -            
+-            -            B Truck S    -            -            -            -            -            
+-            -            -            -            -            -            -            -            
+-            -            -            -            -            -            -            -            
+-            -            -            -            -            -            -            -            
+Enter command: create
+Enter a name with no more than 8 characters: Droid
+Your piece may be one of the following types: 
+A slow piece, which can move left or right, one move at a time. (Enter "s")
+A slow flexible piece, which can move any direction, one move at a time. (Enter "sf")
+A fast piece, which can move any direction, one move at a time. (Enter "f")
+A fast flexible piece, which can move any direction, multiple moves at a time. (Enter "ff")
+Enter piece type: sf
+Enter the first letter of a colour: R
+Enter the X position (1-8): 3
+Enter the Y position (1-8): 7
+Enter command: display
+-            -            -            -            -            -            -            -            
+-            -            -            -            -            -            -            -            
+-            -            -            -            -            -            -            -            
+-            -            -            -            -            -            -            -            
+-            -            B Truck S    -            -            -            -            -            
+-            -            -            -            -            -            -            -            
+-            -            R Droid SF   -            -            -            -            -            
+-            -            -            -            -            -            -            -            
+Enter command: move
+Enter current X position of piece: 3
+Enter current Y position of piece: 7
+Would you like to move "left", "right?", "up", or "down"?: up
+Enter command: display
+-            -            -            -            -            -            -            -            
+-            -            -            -            -            -            -            -            
+-            -            -            -            -            -            -            -            
+-            -            -            -            -            -            -            -            
+-            -            B Truck S    -            -            -            -            -            
+-            -            R Droid SF   -            -            -            -            -            
+-            -            -            -            -            -            -            -            
+-            -            -            -            -            -            -            -            
+Enter command: move
+Enter current X position of piece: 3
+Enter current Y position of piece: 6
+Would you like to move "left", "right?", "up", or "down"?: up
+Error - move not allowed
+Enter command: display
+-            -            -            -            -            -            -            -            
+-            -            -            -            -            -            -            -            
+-            -            -            -            -            -            -            -            
+-            -            -            -            -            -            -            -            
+-            -            B Truck S    -            -            -            -            -            
+-            -            R Droid SF   -            -            -            -            -            
+-            -            -            -            -            -            -            -            
+-            -            -            -            -            -            -            -            
+Enter command: create
+Enter a name with no more than 8 characters: Apple
+Your piece may be one of the following types: 
+A slow piece, which can move left or right, one move at a time. (Enter "s")
+A slow flexible piece, which can move any direction, one move at a time. (Enter "sf")
+A fast piece, which can move any direction, one move at a time. (Enter "f")
+A fast flexible piece, which can move any direction, multiple moves at a time. (Enter "ff")
+Enter piece type: f
+Enter the first letter of a colour: G
+Enter the X position (1-8): 6
+Enter the Y position (1-8): 2
+Enter command: display
+-            -            -            -            -            -            -            -            
+-            -            -            -            -            G Apple F    -            -            
+-            -            -            -            -            -            -            -            
+-            -            -            -            -            -            -            -            
+-            -            B Truck S    -            -            -            -            -            
+-            -            R Droid SF   -            -            -            -            -            
+-            -            -            -            -            -            -            -            
+-            -            -            -            -            -            -            -            
+Enter command: move
+Enter current X position of piece: 6
+Enter current Y position of piece: 2
+Would you like to move "left" or "right?": left
+Enter amount to by (1-7): 4
+Enter command: display
+-            -            -            -            -            -            -            -            
+-            G Apple F    -            -            -            -            -            -            
+-            -            -            -            -            -            -            -            
+-            -            -            -            -            -            -            -            
+-            -            B Truck S    -            -            -            -            -            
+-            -            R Droid SF   -            -            -            -            -            
+-            -            -            -            -            -            -            -            
+-            -            -            -            -            -            -            -            
+Enter command: create
+Enter a name with no more than 8 characters: Shoe
+Your piece may be one of the following types: 
+A slow piece, which can move left or right, one move at a time. (Enter "s")
+A slow flexible piece, which can move any direction, one move at a time. (Enter "sf")
+A fast piece, which can move any direction, one move at a time. (Enter "f")
+A fast flexible piece, which can move any direction, multiple moves at a time. (Enter "ff")
+Enter piece type: ff
+Enter the first letter of a colour: Y
+Enter the X position (1-8): 7
+Enter the Y position (1-8): 2
+Enter command: display
+-            -            -            -            -            -            -            -            
+-            G Apple F    -            -            -            -            Y Shoe FF    -            
+-            -            -            -            -            -            -            -            
+-            -            -            -            -            -            -            -            
+-            -            B Truck S    -            -            -            -            -            
+-            -            R Droid SF   -            -            -            -            -            
+-            -            -            -            -            -            -            -            
+-            -            -            -            -            -            -            -            
+Enter command: move
+Enter current X position of piece: 7
+Enter current Y position of piece: 2
+Would you like to move "left", "right?", "up", or "down"?: down
+Enter amount to by (1-7): 3
+Enter command: display
+-            -            -            -            -            -            -            -            
+-            G Apple F    -            -            -            -            -            -            
+-            -            -            -            -            -            -            -            
+-            -            -            -            -            -            -            -            
+-            -            B Truck S    -            -            -            Y Shoe FF    -            
+-            -            R Droid SF   -            -            -            -            -            
+-            -            -            -            -            -            -            -            
+-            -            -            -            -            -            -            -            
+Enter command: help
+**********************************************HELP****************************************************
+Type "create" to create new pieces on the board
+Type "move" to move pieces on the board
+Type "display" to display pieces on the board
+Type "help" for a list of intructions
+Type "exit" to close the program
+**********************************************HELP****************************************************
+Enter command: exit
+Thank you for using the program.
+
+ ----jGRASP: operation complete.

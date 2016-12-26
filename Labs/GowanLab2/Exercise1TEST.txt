@@ -1,0 +1,32 @@
+ ----jGRASP exec: java Exercise1
+Enter the degree of the polynomial: 4
+Enter the value of x: 2
+The polynomial evaluates to: 31
+Execution time to evaluate polynomial of degree 4: 0 millisecs
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java Exercise1
+Enter the degree of the polynomial: 10
+Enter the value of x: 4
+The polynomial evaluates to: 1398101
+Execution time to evaluate polynomial of degree 10: 0 millisecs
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java Exercise1
+Enter the degree of the polynomial: 300000
+Enter the value of x: 200
+The polynomial evaluates to: 2572864321607740209
+Execution time to evaluate polynomial of degree 300000: 163 millisecs
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java Exercise1
+Enter the degree of the polynomial: 666666
+Enter the value of x: 225
+The polynomial evaluates to: 6597731607300228197
+Execution time to evaluate polynomial of degree 666666: 318 millisecs
+
+ ----jGRASP: operation complete.
+

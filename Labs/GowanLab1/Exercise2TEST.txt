@@ -1,0 +1,17 @@
+ ----jGRASP exec: java Exercise2
+Enter 5 points: 1.0 2.5 3.0 4 5 6 7 8 9 10
+The bounding rectangle's XPos and YPos (1.0, 2.5) the bounding rectangle's centre is: (5.0, 6.25), width: 8.0, height: 7.5
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java Exercise2
+Enter 5 points: 3.5 4.1 7.2 2.9 3.6 4.5 6 4 6 2
+The bounding rectangle's XPos and YPos (3.5, 2.0) the bounding rectangle's centre is: (5.35, 3.25), width: 3.7, height: 2.5
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java Exercise2
+Enter 5 points: 4 2.3 8.4 2.1 7.3 5.2 2.6 8 9.2 1.8
+The bounding rectangle's XPos and YPos (2.6, 1.8) the bounding rectangle's centre is: (5.9, 4.9), width: 6.6, height: 6.2
+
+ ----jGRASP: operation complete.

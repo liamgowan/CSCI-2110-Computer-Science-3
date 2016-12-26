@@ -1,0 +1,95 @@
+ ----jGRASP exec: java MatrixMult
+Enter the size of each matrix: 100
+Enter the matrix element
+All elements of the matrices are assumed to be the same: 3.5
+Execution time: 9 millisecs
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java MatrixMult
+Enter the size of each matrix: 200
+Enter the matrix element
+All elements of the matrices are assumed to be the same: 3.5
+Execution time: 52 millisecs
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java MatrixMult
+Enter the size of each matrix: 300
+Enter the matrix element
+All elements of the matrices are assumed to be the same: 3.5
+Execution time: 93 millisecs
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java MatrixMult
+Enter the size of each matrix: 400
+Enter the matrix element
+All elements of the matrices are assumed to be the same: 3.5
+Execution time: 257 millisecs
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java MatrixMult
+Enter the size of each matrix: 500
+Enter the matrix element
+All elements of the matrices are assumed to be the same: 3.5
+Execution time: 359 millisecs
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java MatrixMult
+Enter the size of each matrix: 600
+Enter the matrix element
+All elements of the matrices are assumed to be the same: 3.5
+Execution time: 759 millisecs
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java MatrixMult
+Enter the size of each matrix: 700
+Enter the matrix element
+All elements of the matrices are assumed to be the same: 3.5
+Execution time: 1423 millisecs
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java MatrixMult
+Enter the size of each matrix: 800
+Enter the matrix element
+All elements of the matrices are assumed to be the same: 3.5
+Execution time: 6547 millisecs
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java MatrixMult
+Enter the size of each matrix: 900
+Enter the matrix element
+All elements of the matrices are assumed to be the same: 3.5
+Execution time: 10441 millisecs
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java MatrixMult
+Enter the size of each matrix: 1000
+Enter the matrix element
+All elements of the matrices are assumed to be the same: 3.5
+Execution time: 14828 millisecs
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java MatrixMult
+Enter the size of each matrix: 1500
+Enter the matrix element
+All elements of the matrices are assumed to be the same: 3.5
+Execution time: 67726 millisecs
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java MatrixMult
+Enter the size of each matrix: 2000
+Enter the matrix element
+All elements of the matrices are assumed to be the same: 3.5
+Execution time: 175502 millisecs
+
+ ----jGRASP: operation complete.

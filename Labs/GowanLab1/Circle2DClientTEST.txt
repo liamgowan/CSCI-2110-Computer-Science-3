@@ -1,0 +1,24 @@
+----jGRASP exec: java Circle2DClient
+TEST 1
+
+Area: 95.03317777109123
+Perimeter: 34.55751918948772
+c1 contains (3.0,3.0): true
+c1 contains circle (4.0, 5.0, 10.5): true
+c1 overlaps with (3.0, 5.0, 2.3): false
+TEST 2
+
+Area: 314.1592653589793
+Perimeter: 62.83185307179586
+c1 contains (8,50): false
+c1 contains circle (6.3, 2.5, 4): true
+c1 overlaps with (6.3, 2.5, 4): false
+TEST 3
+
+Area: 50.26548245743669
+Perimeter: 25.132741228718345
+c1 contains (2,3): true
+c1 contains circle (4.3, 6.7, 3.0): false
+c1 overlaps with (2.3, 7.8, 5.3): false
+
+ ----jGRASP: operation complete.

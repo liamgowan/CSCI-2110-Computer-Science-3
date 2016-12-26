@@ -1,0 +1,57 @@
+Enter username: icrane
+Enter password: qwerty123
+
+Login successful
+Welcome Ichabod Crane
+
+
+
+
+
+Enter username: hello
+Enter password: hello
+
+Either the username or password is incorrect. You have 2 more attempts.
+Enter username: bbones
+Enter password: pass456!
+
+Login successful
+Welcome Brom Bones
+
+
+
+
+
+Enter username: test
+Enter password: test
+
+Either the username or password is incorrect. You have 2 more attempts.
+Enter username: test
+Enter password: test
+
+Either the username or password is incorrect. You have 1 more attempt.
+Enter username: epokemon
+Enter password: password123
+
+Login successful
+Welcome Emboar Pokemon
+
+
+
+
+
+
+
+
+Enter username: test
+Enter password: test
+
+Either the username or password is incorrect. You have 2 more attempts.
+Enter username: test
+Enter password: test
+
+Either the username or password is incorrect. You have 1 more attempt.
+Enter username: test
+Enter password: test
+
+Sorry. Incorrect login. Please contact the system administrator.

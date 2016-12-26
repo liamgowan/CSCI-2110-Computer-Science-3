@@ -1,0 +1,22 @@
+ ----jGRASP exec: java StringMatchClient
+Enter a string: mississippi
+Enter a substring: iss
+Substring iss was found in mississippi at indeces: 
+1 4 
+Execution time: 0 millisecs
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java StringMatchClient
+Enter a string: the brown cat ate the walnut by the tree on the best day
+Enter a substring: the
+Substring the was found in the brown cat ate the walnut by the tree on the best day at indeces: 
+0 18 32 44 
+Execution time: 1 millisecs
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java StringMatchClient
+Enter a string: Liam
+Enter a substring: Liam Gowan
+No matches - substring Liam Gowan was not found in Liam
+Execution time: 0 millisecs
+ ----jGRASP: operation complete.

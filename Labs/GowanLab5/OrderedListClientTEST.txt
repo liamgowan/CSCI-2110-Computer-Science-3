@@ -1,0 +1,11 @@
+Enter the filename to read from: names.txt
+[Amar, Boris, Charlie, Dan, Fujian, Inder, Travis]
+Enter the filename to read from: names2.txt
+[Alex, Ben, Betty, Charlie, Dan, Pei, Travis, Zola, Zulu]
+Item Charlie already present
+Item Dan already present
+Item Travis already present
+[Alex, Amar, Ben, Betty, Boris, Charlie, Dan, Fujian, Inder, Pei, Travis, Zola, Zulu]
+[Charlie, Dan, Travis]
+[Amar, Boris, Fujian, Inder]
+[Alex, Ben, Betty, Pei, Zola, Zulu]
